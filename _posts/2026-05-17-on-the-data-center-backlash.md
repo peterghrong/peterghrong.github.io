@@ -63,7 +63,7 @@ Data centers are also genuinely critical infrastructure. Cloud, AI, payments, go
 
 ## The dismissal
 
-The public response from people with the largest exposure to the buildout mostly does not engage with any of this. Take Marc Andreessen, whose firm has invested heavily in the AI companies filling these facilities with GPUs. He recently endorsed a thread arguing that the anti-data-center movement is just the latest version of an activist playbook.
+The public response from people with the largest exposure to the buildout mostly does not engage with any of this. Take Marc Andreessen. His firm has deployed more than $10 billion across the AI stack, including Databricks (now ~$134B), Mistral (where the firm's early stake has reportedly appreciated 7x in under two years), Pinecone, xAI, and a long list of others. Every one of those companies needs data centers to exist. He recently endorsed a thread arguing that the anti-data-center movement is just the latest version of an activist playbook.
 
 ![Andreessen quote-tweeting Steve Everley](/assets/img/posts/data-centers/andreessen-tweet.png)
 
