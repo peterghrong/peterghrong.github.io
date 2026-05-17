@@ -34,8 +34,11 @@ MathJax = {
     {{ content }}
   </main>
   <footer class="site-foot">
-    <span>© {{ site.time | date: '%Y' }} Peter Rong</span>
-    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <div class="foot-row">
+      <span>© {{ site.time | date: '%Y' }} Peter Rong</span>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+    <p class="disclaimer">Views are my own and do not represent Shopify.</p>
   </footer>
 </div>
 </body>
