@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<h2 class="section-title">About</h2>
+<h1 class="page-title">About.</h1>
 
-<div class="prose">
+<div class="prose" markdown="1">
 
 I'm Peter Rong, a developer at [Shopify](https://shopify.com).
 
