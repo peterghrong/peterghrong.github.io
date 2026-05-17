@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From Brownian motion to Black-Scholes
+date: 2026-05-17 10:00:00
 math: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On the data center backlash
+date: 2026-05-17 11:00:00
 ---
 
 People are turning on data centers. You can see it in town hall meetings in Loudoun County, in Indiana, in rural Georgia. The complaints sound aesthetic at first. Look closer and the anger is about money.

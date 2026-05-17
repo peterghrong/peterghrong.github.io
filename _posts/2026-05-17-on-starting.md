@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On starting
+date: 2026-05-17 09:00:00
 ---
 
 A first post. Mostly to confirm the foundation is here.
