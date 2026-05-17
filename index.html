@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section class="hero">
+  <h1>Peter<br>Rong.</h1>
+  <p class="lede">Developer at <a href="https://shopify.com">Shopify</a>. I keep this site to write. Short pieces, mostly for myself, posted anyway.</p>
+  <p class="contact"><a href="mailto:peter.gh.rong@gmail.com">peter.gh.rong@gmail.com</a></p>
+</section>
+
+<h2 class="section-title">Recent</h2>
+<ul class="post-list">
+{% for post in site.posts limit: 6 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%Y · %m · %d' }}</time>
+      <span class="title">{{ post.title }}</span>
+    </a>
+  </li>
+{% endfor %}
+</ul>

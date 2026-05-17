@@ -1,0 +1,21 @@
+title: Peter Rong
+description: Writing and reflection.
+author: Peter Rong
+email: peter.gh.rong@gmail.com
+url: "https://peterghrong.github.io"
+baseurl: ""
+
+permalink: /writing/:slug/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
