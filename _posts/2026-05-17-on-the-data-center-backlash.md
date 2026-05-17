@@ -63,6 +63,14 @@ On equity access: 401(k)s and IRAs since the 1970s have broadened indirect equit
 
 The honest framing: ordinary people do have some access to capital returns. That access is just structurally late, structurally smaller, and structurally more expensive than the access available to the people who already have capital.
 
+## The dismissal
+
+Most of the public response from people with the largest exposure to this buildout does not engage with any of that. Marc Andreessen, whose firm has invested heavily in the companies filling these facilities with GPUs, recently endorsed a thread arguing that the anti-data-center movement is just the latest version of the activist playbook used against fracking. His one-line addition: "Yep, and civilian nuclear power."
+
+Read literally, this collapses the entire complaint into pattern-matching. Anyone objecting must be running someone else's script. The possibility that a county might do the math on a $2 million per job subsidy and reach an uncomplicated conclusion gets no airtime.
+
+You see this a lot. When the people most exposed to the upside cannot imagine a substantive reason for the resistance, the resistance is going to keep happening, and they are going to keep being surprised by it.
+
 ## The feeling makes sense
 
 People are right to feel that something is off when a hyperscaler builds a humming concrete block next to their school district, takes a $2 million per job subsidy, and ships the profits to a shareholder base they will never be part of. The aesthetic complaint is the easy one to make at a zoning meeting. The deeper complaint is harder to put into a public comment, but it is the one driving the room.
