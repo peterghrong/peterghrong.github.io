@@ -65,11 +65,13 @@ The honest framing: ordinary people do have some access to capital returns. That
 
 ## The dismissal
 
-Most of the public response from people with the largest exposure to this buildout does not engage with any of that. Marc Andreessen, whose firm has invested heavily in the companies filling these facilities with GPUs, recently endorsed a thread arguing that the anti-data-center movement is just the latest version of the activist playbook used against fracking. His one-line addition: "Yep, and civilian nuclear power."
+The public response from people with the largest exposure to the buildout mostly does not engage with any of this. Take Marc Andreessen, whose firm has invested heavily in the AI companies filling these facilities with GPUs. He recently endorsed a thread arguing that the anti-data-center movement is just the latest version of an activist playbook.
 
-Read literally, this collapses the entire complaint into pattern-matching. Anyone objecting must be running someone else's script. The possibility that a county might do the math on a $2 million per job subsidy and reach an uncomplicated conclusion gets no airtime.
+![Andreessen quote-tweeting Steve Everley](/assets/img/posts/data-centers/andreessen-tweet.png)
 
-You see this a lot. When the people most exposed to the upside cannot imagine a substantive reason for the resistance, the resistance is going to keep happening, and they are going to keep being surprised by it.
+The framing collapses the entire complaint into pattern-matching. Anyone objecting must be running someone else's script. The possibility that a county might do the math on a $2 million per job subsidy and reach an uncomplicated conclusion gets no airtime.
+
+This is the default. When the people most exposed to the upside cannot imagine a substantive reason for the resistance, the resistance will keep happening, and they will keep being surprised by it.
 
 ## The feeling makes sense
 
