@@ -23,19 +23,21 @@ So the trade, baldly: a county forgoes hundreds of millions in taxes and gets a 
 
 ## Almost nobody owns the upside
 
-A common response is that profits flow back to ordinary people through retirement accounts. The participation numbers do back this up. About 58% of US households own some stock, directly or through 401(k)s and IRAs, and that share is at a record high. The dollar amounts tell a different story.
+A common response is that profits flow back to ordinary people through retirement accounts. About 58% of US households own some stock, directly or through 401(k)s and IRAs, and that share is at a record high. The flip side: 42% own no stock at all. For them, the data center economy produces no participation upside whatsoever, only the local costs.
+
+For the households that do participate, the dollar concentration is extreme.
 
 ![Half of US equities are owned by the top 1%](/assets/img/posts/data-centers/equity_concentration.png)
 
-The top 1% of households owns about half of all corporate equity. The top 10% owns roughly 88%. The bottom half owns about 1%. So when AWS books another quarter at 37% margins, the gains accrue almost entirely to a small slice of the country. The median direct stock holding among households who own stock at all is around $15,000. That is a rounding error compared to what a hyperscaler earns in an afternoon.
+The top 1% of households owns about half of all corporate equity. The top 10% owns roughly 88%. The bottom half owns about 1%. So when AWS books another quarter at 37% margins, the gains accrue almost entirely to a small slice of the country. The median direct stock holding among households that own stock at all is around $15,000. That is a rounding error compared to what a hyperscaler earns in an afternoon.
 
 ## Inflation makes it worse
 
-Cash, which is what most households actually hold, has been quietly losing ground the whole time.
+For the 42% with no stock, and the much larger share with only a token amount, there is no automatic inflation hedge on savings. Cash in checking and savings accounts erodes directly. Home equity helps if you own a home. Wages can keep pace over long windows but get whipped around during inflation shocks like the one we just lived through.
 
 ![One dollar in 2000 buys 53 cents of goods today](/assets/img/posts/data-centers/cumulative_inflation.png)
 
-A dollar saved in 2000 buys about 53 cents of goods today. From 2020 alone, prices are up 23%. If you weren't holding equities, or holding them in serious size, you got smaller in real terms while the data center economy got bigger.
+A dollar saved in 2000 buys about 53 cents of goods today. From 2020 alone, prices are up 23%. Households without meaningful equity exposure got smaller in real terms while the data center economy got bigger. The asset that protects against this, broad equity ownership, is exactly the asset most of these households do not have.
 
 ## Even public market investors are getting cut out
 
@@ -58,10 +60,6 @@ It is worth being honest about what the other side has.
 Property tax revenue from data centers, where it survives the abatements, can be very large. Loudoun County, Virginia, the densest data center cluster in the world, reports that data centers occupy about 4% of commercial parcels and produce something like 38% of general fund revenue. The county estimates that residential property taxes would be about $5,800 per household higher per year without that base. That is a real benefit to real people who live in Loudoun.
 
 Data centers are also genuinely critical infrastructure. Cloud, AI, payments, government services, all of it runs on them. We are going to build a lot more of them whether the local politics like it or not.
-
-On equity access: 401(k)s and IRAs since the 1970s have broadened indirect equity ownership enormously. Long-duration equity holders, even small ones, have outpaced inflation by a comfortable margin over twenty and thirty year windows. And private market access is slowly opening up through interval funds, secondary platforms like Forge and EquityZen, and recent regulatory work on adding private assets to retirement plans.
-
-The honest framing: ordinary people do have some access to capital returns. That access is just structurally late, structurally smaller, and structurally more expensive than the access available to the people who already have capital.
 
 ## The dismissal
 
